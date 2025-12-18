@@ -46,7 +46,7 @@ Documents\
 ## Installation
 
 ```
-git clone <repo-url>
+git clone https://github.com/tyronec64/qp
 cd qpw
 ```
 
