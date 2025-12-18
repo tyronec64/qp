@@ -27,6 +27,7 @@ qpw.ps1
 Install-Qpw.ps1
 README.md
 CHANGELOG.md
+```
 
 ## After instalaltion
 
